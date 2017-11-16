@@ -45,7 +45,7 @@
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
 
-    <style name="Theme.MainTheme" parent="Theme.AppCompat.Light">
+    <style name="Theme.MainTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimaryDark">@color/theme_primary_dark</item>
         <item name="colorPrimary">@color/theme_primary</item>
     </style>
